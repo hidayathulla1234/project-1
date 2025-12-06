@@ -11,6 +11,13 @@ The project uses the famous Iris dataset from scikit-learn, which includes:
 - 4 features: sepal length, sepal width, petal length, and petal width  
 - All features are measured in centimeters  
 
+
+## Live Demo
+You can explore the live version of this project here:  
+[Iris Flower Classfication](https://hidayathulla1234.streamlit.app/)
+
+
+
 ## 🛠️ Project Structure  
 
 ```
